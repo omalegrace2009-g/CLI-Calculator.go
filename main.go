@@ -17,5 +17,6 @@ func main() {
 		fmt.Println("<<5>> Help")
 		fmt.Println("<<6>> Exit")
 		fmt.Scanln(&input)
+		var operation string
 	}
 }
